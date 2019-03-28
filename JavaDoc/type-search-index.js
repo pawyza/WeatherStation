@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.ib","l":"Controller"},{"p":"edu.ib","l":"DataManager"},{"p":"edu.ib","l":"DataStorage"},{"p":"edu.ib","l":"Main"},{"p":"edu.ib","l":"Observable"},{"p":"edu.ib","l":"Observer"},{"p":"edu.ib","l":"WeatherChecker"},{"p":"edu.ib","l":"WeatherStation"},{"p":"edu.ib","l":"WindData"}]

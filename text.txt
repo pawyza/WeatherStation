@@ -1,0 +1,54 @@
+{
+  "dataStorageSize": 2,
+  "cityName": "Wroclaw",
+  "checkTime": [
+    {
+      "hour": 15,
+      "minute": 13,
+      "second": 7,
+      "nano": 475053400
+    },
+    {
+      "hour": 15,
+      "minute": 13,
+      "second": 17,
+      "nano": 639057400
+    }
+  ],
+  "weatherType": [
+    "Snow",
+    "Snow"
+  ],
+  "weatherDescription": [
+    "light snow",
+    "light snow"
+  ],
+  "temperature": [
+    1.0,
+    1.0
+  ],
+  "pressure": [
+    1022.0,
+    1022.0
+  ],
+  "humidity": [
+    99.0,
+    99.0
+  ],
+  "minTemperature": [
+    1.0,
+    1.0
+  ],
+  "maxTemperature": [
+    1.0,
+    1.0
+  ],
+  "windSpeed": [
+    2.1,
+    2.1
+  ],
+  "windDegree": [
+    40.0,
+    40.0
+  ]
+}
